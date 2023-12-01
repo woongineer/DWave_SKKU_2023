@@ -69,6 +69,7 @@ https://github.com/dwave-training/choosing-boxes/blob/master/choosing_boxes.py
 
 - 30.11.23(2일차)
 - 2-2-51pp Choosing Boxes
+- 모르겟누
 
 
 ## 7. scheduling_preferences.py
@@ -81,6 +82,7 @@ https://github.com/dwave-training/employee-scheduling
   - scheduling_preferences.py
   - scheduling_addemployees.py
   - scheduling_restrictions.py
+- 필기랑 같이 보기, 각 Restriction을 어떻게 구현했는지가 중요
 
 
 ## 8. portfolio.py
@@ -93,3 +95,4 @@ https://github.com/dwave-training/portfolio-optimization
   - exercise_1.py
   - exercise_2.py
   - exercise_3.py
+- https://github.com/vgoliber/knapsack/blob/main/knapsack.py 이거를 좀 참조함
