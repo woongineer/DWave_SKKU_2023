@@ -35,7 +35,6 @@ https://github.com/dwave-training/traveling-salesperson/blob/master/hss_exercise
 - 29.11.23(1일차)
 - 1-2-25pp Travelling Salesman
 - 그냥 sampler같은거 instantiate 시키는 등 개념 익히기 용 예제인듯..?
-
 ## 3. npp.py
 
 https://github.com/dwave-training/number-partitioning/blob/master/npp.py
@@ -54,7 +53,17 @@ https://github.com/dwave-examples/clustering/blob/master/clustering.py
 - Inspector는 지금은 그냥 슥 보기만 하면 될듯? QPU Usage나 Topology 최적화 용도같음.
 
 
-## 5. choosing_boxes.py
+## 5. friends_enemies_hybrid.py
+
+https://github.com/dwave-training/social-networks/blob/main/friends_enemies_hybrid.py
+
+- 30.11.23(2일차)
+- 1-2-51pp Friends and Enemies
+- QUBO 식을 구성할 때, 1-2-44~1-2-46pp에서 구한 Same/Diff 식을 사용한 게 중요
+- BQM에 add_linear 및 add_quadratic 함수 적용도 중요한 듯
+
+
+## 6. choosing_boxes.py
 
 https://github.com/dwave-training/choosing-boxes/blob/master/choosing_boxes.py
 
@@ -62,7 +71,7 @@ https://github.com/dwave-training/choosing-boxes/blob/master/choosing_boxes.py
 - 2-2-51pp Choosing Boxes
 
 
-## 6. scheduling_preferences.py
+## 7. scheduling_preferences.py
 
 https://github.com/dwave-training/employee-scheduling
 
@@ -74,7 +83,7 @@ https://github.com/dwave-training/employee-scheduling
   - scheduling_restrictions.py
 
 
-## 7. portfolio.py
+## 8. portfolio.py
 
 https://github.com/dwave-training/portfolio-optimization
 
